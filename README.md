@@ -64,11 +64,16 @@
    <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/gnal091203/">
         <img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png">
     </a>
-</div>
+</div>1
 
 ---
-
-<img width='500' src="https://github.com/ThanhNhat14/ThanhNhat14/blob/main/350a9fec-c714-4e3c-979f-a30ff7b95132.png" align="right"/>
+    _____  __    __  ________   _______________    __  ___
+   / __ )/ /   / / / / ____/  /_  __/ ____/   |  /  |/  /
+  / __  / /   / / / / __/      / / / __/ / /| | / /|_/ / 
+ / /_/ / /___/ /_/ / /___     / / / /___/ ___ |/ /  / /  
+/_____/_____/\____/_____/    /_/ /_____/_/  |_/_/  /_/   
+                                                         
+![end](https://github.com/ThanhNhat14/ThanhNhat14/blob/main/350a9fec-c714-4e3c-979f-a30ff7b95132.png)
 
 ---
 📌 Last Updated: Sep 2025
