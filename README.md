@@ -67,5 +67,9 @@
 </div>
 
 ---
+
+<img width='500' src="https://github.com/ThanhNhat14/ThanhNhat14/blob/main/350a9fec-c714-4e3c-979f-a30ff7b95132.png" align="right"/>
+
+---
 📌 Last Updated: Sep 2025
-<img width='700' src="https://github.com/ThanhNhat14/ThanhNhat14/blob/main/350a9fec-c714-4e3c-979f-a30ff7b95132.png" align="right"/>
+
