@@ -64,7 +64,7 @@
    <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/gnal091203/">
         <img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png">
     </a>
-</div>1
+</div>
   
 ---
 📌 Last Updated: Sep 2025
