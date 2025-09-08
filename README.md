@@ -1,4 +1,4 @@
-![Hacker Banner](https://i.imgur.com/3OeX3eR.jpg)
+[[![Hacker Banner](https://i.imgur.com/3OeX3eR.jpg)
 
 <img alt="SOC Analyst" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Hồ Thanh Nhật</h2>
 
@@ -52,3 +52,4 @@
 
 -----
 📌 Last Updated: Sep 2025
+](https://vn.portal-pokemon.com/play/pokedex/0443)](https://vn.portal-pokemon.com/play/pokedex/0443)
