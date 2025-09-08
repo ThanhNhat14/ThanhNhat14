@@ -33,12 +33,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/ThanhNhat14">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanhNhat14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThanhNhat14&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <a href="https://github.com/ThanhNhat14">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanhNhat14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThanhNhat14&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
+
 
 ---
 
