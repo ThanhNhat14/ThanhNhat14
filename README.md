@@ -49,6 +49,21 @@
 <a href="mailto:hothanhnhat10a2@gmail.com"><img src="https://img.shields.io/badge/-hothanhnhat10a2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/ThanhNhat14"><img src="https://img.shields.io/badge/-ThanhNhat14-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
+<p align="center">
 
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/h%E1%BB%93-thanh-nh%E1%BA%ADt-b8b812225/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ThanhNhat14">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/langsept.09">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+
+</p>
 -----
 📌 Last Updated: Sep 2025
