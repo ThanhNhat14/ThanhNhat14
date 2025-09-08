@@ -1,4 +1,4 @@
-![Pokemon Banner](https://i.imgur.com/3OeX3eR.jpg)
+![Blue Team Banner](https://i.imgur.com/Z6BwxhM.jpg)
 
 <img alt="Pikachu Wave" src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width='60' align="left"/><h2>Hey there! I'm Hồ Thanh Nhật</h2>
 
