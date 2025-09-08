@@ -1,6 +1,6 @@
-[[![Hacker Banner](https://i.imgur.com/3OeX3eR.jpg)
+![Pokemon Banner](https://i.imgur.com/3OeX3eR.jpg)
 
-<img alt="SOC Analyst" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Hồ Thanh Nhật</h2>
+<img alt="Pikachu Wave" src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width='60' align="left"/><h2>Hey there! I'm Hồ Thanh Nhật</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,7 +11,7 @@
 ✉️ &nbsp;Reach me at **hothanhnhat10a2@gmail.com**.\
 📄 &nbsp;Please check my [Résumé](https://github.com/ThanhNhat14/CV) for more details.
 
-<img src="https://media.giphy.com/media/fxJpkm0FAFllW4JpRb/giphy.gif" width="400" align="right">
+<img src="https://media.giphy.com/media/ye7OTQgwmVuVy/giphy.gif" width="400" align="right">
 
 ---
 
@@ -52,4 +52,3 @@
 
 -----
 📌 Last Updated: Sep 2025
-](https://vn.portal-pokemon.com/play/pokedex/0443)](https://vn.portal-pokemon.com/play/pokedex/0443)
