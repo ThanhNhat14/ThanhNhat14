@@ -46,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/thanhnhat14"><img src="https://img.shields.io/badge/-Ho%20Thanh%20Nhat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/h%E1%BB%93-thanh-nh%E1%BA%ADt-b8b812225/"><img src="https://img.shields.io/badge/-Ho%20Thanh%20Nhat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hothanhnhat10a2@gmail.com"><img src="https://img.shields.io/badge/-hothanhnhat10a2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/ThanhNhat14"><img src="https://img.shields.io/badge/-ThanhNhat14-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
