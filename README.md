@@ -61,6 +61,9 @@
     <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/">
         <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png">
     </a>
+   <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/gnal091203/">
+        <img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png">
+    </a>
 </div>
 
 ---
