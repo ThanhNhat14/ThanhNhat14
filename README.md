@@ -11,7 +11,7 @@
 ✉️ &nbsp;Reach me at **hothanhnhat10a2@gmail.com**.\
 📄 &nbsp;Please check my [Résumé](https://github.com/ThanhNhat14/CV) for more details.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ---
 
