@@ -11,7 +11,7 @@
 ✉️ &nbsp;Reach me at **hothanhnhat10a2@gmail.com**.\
 📄 &nbsp;Please check my [Résumé](https://github.com/ThanhNhat14/CV) for more details.
 
-<img src="https://media.giphy.com/media/ye7OTQgwmVuVy/giphy.gif" width="400" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
 
 ---
 
