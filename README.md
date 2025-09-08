@@ -68,4 +68,4 @@
 
 ---
 📌 Last Updated: Sep 2025
-<img width='600' src="https://github.com/ThanhNhat14/ThanhNhat14/blob/main/350a9fec-c714-4e3c-979f-a30ff7b95132.png" align="right"/>
+<img width='800' align="center" src="https://github.com/ThanhNhat14/ThanhNhat14/blob/main/350a9fec-c714-4e3c-979f-a30ff7b95132.png" align="right"/>
