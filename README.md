@@ -13,7 +13,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
----
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,7 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
----
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -41,7 +39,6 @@
 </div>
 
 
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
