@@ -11,7 +11,7 @@
 ✉️ &nbsp;Reach me at **hothanhnhat10a2@gmail.com**.\
 📄 &nbsp;Please check my [Résumé](https://github.com/ThanhNhat14/ThanhNhat14/blob/main/CV_HoThanhNhat_SOCAnalyst.pdf) for more details.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" widrh="50%" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" widrh="40%" align="right"/>
 
 ---
 
