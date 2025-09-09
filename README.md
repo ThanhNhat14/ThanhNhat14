@@ -3,19 +3,23 @@
   <img src="https://github.com/ThanhNhat14/ThanhNhat14/blob/main/akazajpg.jpg" alt="Banner"/>
 </p>
 
-<!-- Greeting -->
-<h1 align="center">👋 Hey, I'm Hồ Thanh Nhật</h1>
-<h3 align="center">🚀 Aspiring SOC Analyst | 🛡️ Threat Hunter | 📊 SIEM Enthusiast</h3>
+<!-- Intro -->
+<h2 align="center">
+  <img alt="Pikachu Wave" src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="50"/>
+  Hey there! I'm Hồ Thanh Nhật
+</h2>
 
 ---
 
 ## 👨🏻‍💻 About Me
-- 🎓 Studying **Information Security** at PTIT – Ho Chi Minh City.  
-- 💡 Focused on **SIEM, Threat Detection, Log Analysis & Threat Intelligence**.  
-- 🧪 Building labs, writing docs, and testing **attacks/defenses**.  
-- 🌱 Exploring **Splunk, Security Onion, Suricata, Zeek, MISP, OpenCTI**.  
-- 📫 Reach me at: **hothanhnhat10a2@gmail.com**  
-- 📄 [View My Résumé](https://github.com/ThanhNhat14/ThanhNhat14/blob/main/CV_HoThanhNhat_SOCAnalyst.pdf)  
+- 💡 Aspiring **SOC Analyst** with hands-on experience in **SIEM, threat detection, and log analysis**  
+- 🎓 Studying **Information Security** at **PTIT – Ho Chi Minh City**  
+- 🌱 Interested in **Splunk, Security Onion, Suricata, Zeek, Threat Intelligence**  
+- ✍️ Enjoy building labs, writing documentation, and testing attacks/defenses  
+- ✉️ Reach me at: **hothanhnhat10a2@gmail.com**  
+- 📄 [My Résumé](https://github.com/ThanhNhat14/ThanhNhat14/blob/main/CV_HoThanhNhat_SOCAnalyst.pdf)  
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="40%" align="right"/>
 
 ---
 
@@ -47,12 +51,12 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/h%E1%BB%93-thanh-nh%E1%BA%ADt-b8b812225/" target="_blank"><img src="https://img.icons8.com/doodle/48/linkedin--v2.png"/></a>
-  <a href="https://github.com/ThanhNhat14" target="_blank"><img src="https://img.icons8.com/doodle/48/github--v1.png"/></a>
-  <a href="https://stackoverflow.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/></a>
-  <a href="https://www.instagram.com/langsept.09" target="_blank"><img src="https://img.icons8.com/doodle/48/instagram-new--v2.png"/></a>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.icons8.com/doodle/48/youtube--v2.png"/></a>
-  <a href="https://www.facebook.com/gnal091203/" target="_blank"><img src="https://img.icons8.com/doodle/48/facebook--v2.png"/></a>
+  <a href="https://www.linkedin.com/in/h%E1%BB%93-thanh-nh%E1%BA%ADt-b8b812225/" target="_blank"><img src="https://img.icons8.com/doodle/40/linkedin--v2.png"/></a>
+  <a href="https://github.com/ThanhNhat14" target="_blank"><img src="https://img.icons8.com/doodle/40/github--v1.png"/></a>
+  <a href="https://stackoverflow.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/></a>
+  <a href="https://www.instagram.com/langsept.09" target="_blank"><img src="https://img.icons8.com/doodle/40/instagram-new--v2.png"/></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.icons8.com/doodle/40/youtube--v2.png"/></a>
+  <a href="https://www.facebook.com/gnal091203/" target="_blank"><img src="https://img.icons8.com/doodle/40/facebook--v2.png"/></a>
 </p>
 
 ---
